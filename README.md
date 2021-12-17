@@ -1,1 +1,1 @@
-# random-background-color
+# Random Background Color Generator
